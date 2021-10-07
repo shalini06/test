@@ -1,1 +1,3 @@
-Helo India, Currently this file is being changed  in branch 1 and then moved to  master.
+Helo India, Currently this file is being changed  in branch 2 and then moved to  master.
+
+Let's ee hw conflict occurs and gets resolved.
